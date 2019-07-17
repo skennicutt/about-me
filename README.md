@@ -1,7 +1,6 @@
 # About Me
 - Software Engineer @ Trackvia
 - Bachelor's (2014) and Master's (2015) Degree in Computer Science from Colorado School of Mines
-- 
 
 ## My Priorities as a Developer
 - Readability above all else
