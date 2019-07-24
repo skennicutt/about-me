@@ -10,6 +10,10 @@
 ## My Checklists
 [Code Review Checklist](https://github.com/skennicutt/checklists/blob/feature/code-review-checklist/CodeReviewChecklist.md)
 
+## My Tools
+[VSCode](https://code.visualstudio.com/)
+[LICEcap](https://www.cockos.com/licecap/)
+
 ## Books I Like
 ### Professional Development
 - [Code Complete](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=sr_1_3?keywords=code+complete&qid=1563384307&s=gateway&sr=8-3)
