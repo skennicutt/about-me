@@ -3,16 +3,17 @@
 - Bachelor's (2014) and Master's (2015) Degree in Computer Science from Colorado School of Mines
 
 ## My Priorities as a Developer
-- Readability above all else
+- Readability above all else.
 - Complexity kills. Simplify as much as possible.
-- User experience and interaction should be considered at every level
+- User experience and interaction should be considered at every level.
 
 ## My Checklists
-[Code Review Checklist](https://github.com/skennicutt/checklists/blob/feature/code-review-checklist/CodeReviewChecklist.md)
+- [Code Review Checklist](https://github.com/skennicutt/checklists/blob/feature/code-review-checklist/CodeReviewChecklist.md)
 
 ## My Tools
-[VSCode](https://code.visualstudio.com/)
-[LICEcap](https://www.cockos.com/licecap/)
+- [VSCode](https://code.visualstudio.com/)
+- [LICEcap](https://www.cockos.com/licecap/)
+- [PureRef](https://www.pureref.com/about.php) 
 
 ## Books I Like
 ### Professional Development
@@ -25,5 +26,5 @@
 - [The Design Of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/ref=sr_1_1?crid=25UXOSRCV1SEG&keywords=the+design+of+everyday+things&qid=1563384512&s=books&sprefix=The+Design+%2Cstripbooks%2C171&sr=1-1)
 
 ## Fun Facts
-- I lived in China for 5 years during Highschool
+- I lived in China for 5 years during highschool.
 - I play guitar, piano, bass, and drums.
